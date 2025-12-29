@@ -21,7 +21,7 @@ This project presents an interactive **Power BI dashboard** analyzing mobile pho
 ![Mobile Sales Dashboard](DashboardImage.png)
 
 ## 🎥 Dashboard Demo Video
-[Watch Dashboard Walkthrough](Mobile%20Sales%20Dashboard_.mp4)
+[Watch Dashboard Walkthrough](Mobile_Sales_Dashboard.mp4)
 
 ## 📂 Dataset
 - **File:** Mobile Sales Data.xlsx
